@@ -100,8 +100,10 @@ async def answer(bot, query):
 def get_reply_markup(query):
     buttons = [
         [
-            InlineKeyboardButton('Search again', switch_inline_query_current_chat=query),
-            InlineKeyboardButton('⚠ START ME ⚠', url='https://t.me/NVS_FILTER_28_bot')
+            InlineKeyboardButton('Search again', switch_inline_query_current_chat=query)
+        ],
+        [
+             InlineKeyboardButton('⚠ START ME ⚠', url='https://t.me/NVS_FILTER_28_bot'),
         ]
         ]
     return InlineKeyboardMarkup(buttons)
