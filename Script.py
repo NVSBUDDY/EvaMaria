@@ -12,8 +12,8 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - ZERO 1 is a Not open source project. 
-- Your Send Me Donations:- 
-   UPI :- hirenking@ybl
+- Send Me Your Donations:- 
+   UPI :- hirenking@ibl
 -Thx For Your Support.  
 
 <b>DEVS:</b>
