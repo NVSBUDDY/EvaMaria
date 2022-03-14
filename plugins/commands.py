@@ -25,6 +25,10 @@ async def start(client, message):
             [
                 InlineKeyboardButton('🤖 Updates', url='https://t.me/NVSHDMOVIE')
             ],
+            
+            [
+                InlineKeyboardButton('🔎 Log Channel 🔍', url='https://t.me/NVSHDMOVIELOG')
+            ],
             [
                 InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
             ]
