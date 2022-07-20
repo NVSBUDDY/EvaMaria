@@ -27,7 +27,7 @@ async def start(client, message):
             ],
             
             [
-                InlineKeyboardButton('🔎 Log Channel 🔍', url='https://t.me/NVSHDMOVIELOG')
+                InlineKeyboardButton('🎬 Channel ', url='https://t.me/NVSHDMOVIE')
             ],
             [
                 InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -48,7 +48,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton(' 🔍 Search Here  ', switch_inline_query_current_chat='')
         ],[
-            InlineKeyboardButton('🔍 Movie log', url='https://t.me/NVSHDMOVIELOG'),
+            InlineKeyboardButton('☁ nvs cloud ', url='https://t.me/nvscloud'),
             InlineKeyboardButton('🤖 Channel', url='https://t.me/NVSHDMOVIE')
         ], [
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
@@ -91,7 +91,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton(' 🔍 Search Here  ', switch_inline_query_current_chat='')
         ],[
-            InlineKeyboardButton('🔍 Movie log', url='https://t.me/NVSHDMOVIELOG'),
+            InlineKeyboardButton('☁ nvs cloud ', url='https://t.me/nvscloud'),
             InlineKeyboardButton('🤖 Channel', url='https://t.me/NVSHDMOVIE')
         ], [
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
